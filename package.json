@@ -1,0 +1,13 @@
+{
+  "name": "@yosmy/date-spec",
+  "version": "0.1.0",
+  "main": "build/index.js",
+  "dependencies": {
+    "prop-types": "^15.6.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  }
+}
